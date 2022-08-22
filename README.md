@@ -1,2 +1,2 @@
 # React-Weather-App
-#Enter your pwn API Keys to retrieve the weather data
+#Enter your own API Keys to retrieve the weather data
